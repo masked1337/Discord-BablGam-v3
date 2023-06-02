@@ -1,0 +1,28 @@
+{
+    "Token": "BOT_TOKEN",
+    "Prefix": "?",
+    "Channel-Names": [
+        "raid by babl gam",
+        "join babl gam"
+    ],
+    "Server-Names": [
+        "BABL GAM RUINED YOu"
+    ],
+    "Role-Names": [
+        "Raid by Babl Gam",
+        "Raid by Babl Gam"
+    ],
+    "Reason": [
+        "Raid by Babl Gam",
+        "Raid by Babl Gam"
+    ],
+    "Spam": true,
+    "Webhook-Names": [
+        "Raid by Babl Gam v3",
+        "https://github.com/masked1337"
+    ],
+    "name": "Babl Gam",
+    "Spam-Messages": " **edit in config.json** ",
+    "Spam-Invite": "@everyone **BABL GAM OWNS U**! https://discord.gg/TCkqKrWt6b",
+    "Spam-Amount": 10000
+}
